@@ -1,0 +1,1 @@
+# Proyecto-Calculo-de-Centroide-y-Momento-de-Inercia
